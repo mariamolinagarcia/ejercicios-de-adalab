@@ -1,20 +1,19 @@
 h1 {
-    color: blue;
-    font-family: Arial, sans-serif;
-    font-size: 20px;
+  color: green;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
 }
 h2 {
-    font-family: Arial, sans-serif;
-    font-size: 24px;
-    color: black;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  color: black;
 }
 
 body {
-    background-color: #f3f4f5;
-
+  background-color: #f3f4f5;
 }
 p {
-    font-family: Georgia, sans-serif;
-    font-size: 18px;
-    color: #757575;
+  font-family: Georgia, sans-serif;
+  font-size: 18px;
+  color: #757575;
 }
