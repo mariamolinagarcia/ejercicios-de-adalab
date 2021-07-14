@@ -1,0 +1,26 @@
+/* ejercicio 2 */
+.d-inline {
+  display: inline;
+}
+
+.d-block {
+  display: block;
+}
+
+.d-inline-block {
+  display: inline-block;
+}
+
+.d-none {
+  display: none;
+}
+/* ejercicio 5 */
+.ej5 {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  border: 5px solid black;
+  box-sizing: border-box;
+  margin-bottom: auto;
+  margin-top: auto;
+}
