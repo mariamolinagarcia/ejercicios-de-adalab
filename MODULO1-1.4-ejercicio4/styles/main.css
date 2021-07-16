@@ -1,0 +1,23 @@
+.container {
+  border: 2px solid purple;
+}
+
+.box {
+  width: 50%;
+  height: 50%;
+}
+
+/* flex */
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.box {
+  align-items: stretch;
+}
+
+.box1 {
+  flex-basis: 100%;
+}
