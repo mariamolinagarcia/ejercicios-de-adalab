@@ -1,0 +1,81 @@
+:root {
+  font-family: Roboto, "Open Sans", "Helvetica Neue", sans-serif;
+}
+/* MOBILE VERSION*/
+body {
+  background-color: white;
+  line-height: 1.5;
+}
+header {
+  background-color: black;
+  width: 100%;
+  height: 54px;
+  position: fixed;
+  display: flex;
+  justify-self: space-between;
+  z-index: 1000;
+}
+main {
+}
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.logo {
+  position: absolute;
+  top: 12px;
+  left: 15px;
+  height: 28px;
+}
+
+.burguer {
+  position: absolute;
+  top: 4px;
+  right: 15px;
+  width: 30px;
+}
+
+.trial {
+  background-color: rgb(88, 88, 255);
+  position: relative;
+  top: 50px;
+  color: white;
+  z-index: 999;
+}
+
+.button-trial {
+  background-color: green;
+  height: 45px;
+  width: ;
+}
+.hero {
+  padding-top: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.hero p {
+  font-weight: 600;
+}
+.hero small {
+  font-size: 8px;
+  line-height: 1;
+}
+
+.benefits {
+  position: relative;
+  top: 300px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  display: inline-block;
+  color: white;
+  background-color: black;
+}
+
+/* TABLET VERSION*/
+/* DESKTOP VERSION*/

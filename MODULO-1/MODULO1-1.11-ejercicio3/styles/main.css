@@ -1,0 +1,36 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 20vh 60vh 20vh;
+  row-gap: 5px;
+  column-gap: 5px;
+}
+
+.item1 {
+  background-color: palevioletred;
+  color: white;
+  text-align: center;
+  grid-column: span 12;
+}
+
+.item2 {
+  background-color: purple;
+  color: white;
+  text-align: center;
+  grid-column-start: 3;
+  grid-column: span 4;
+}
+
+.item3 {
+  background-color: RED;
+  color: white;
+  text-align: center;
+  grid-column: span 8;
+}
+
+.item4 {
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+  grid-column: span 12;
+}

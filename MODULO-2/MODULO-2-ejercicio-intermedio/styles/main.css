@@ -1,0 +1,20 @@
+.container {
+  background-color: #ffcc00;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.orange {
+  background-color: #ff9900;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+select {
+}

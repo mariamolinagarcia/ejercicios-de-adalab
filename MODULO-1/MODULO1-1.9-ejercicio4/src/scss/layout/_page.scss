@@ -1,0 +1,30 @@
+body {
+  padding: 2rem;
+  height: 100vh;
+
+  background-color: $color-bg;
+  font-family: $font-main;
+}
+
+.page--main__section1 {
+  height: 50vh;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  p {
+    text-align: center;
+  }
+}
+.page--main__section2 {
+  margin-left: 2rem;
+  h1 {
+    margin-bottom: 20px;
+  }
+  &--button {
+    background-color: red;
+    height: 45px;
+    border-radius: 5px;
+  }
+}

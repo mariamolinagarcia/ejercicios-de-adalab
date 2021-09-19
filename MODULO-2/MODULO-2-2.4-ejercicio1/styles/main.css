@@ -1,0 +1,15 @@
+.btn {
+  box-sizing: content-box;
+  background-color: aqua;
+  width: 200px;
+  border: solid 3px black;
+  padding: 20px;
+}
+
+.btn1 {
+  box-sizing: border-box;
+  background-color: greenyellow;
+  width: 200px;
+  border: solid 3px black;
+  padding: 20px;
+}

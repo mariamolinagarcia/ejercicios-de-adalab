@@ -1,0 +1,23 @@
+header {
+  background-color: red;
+}
+.hero {
+  background-color: blue;
+}
+section {
+  background-color: yellow;
+}
+.aside {
+  background-color: green;
+}
+footer {
+  background-color: orange;
+}
+
+.footer {
+}
+.col-12 {
+}
+
+.footer.col-12 {
+}

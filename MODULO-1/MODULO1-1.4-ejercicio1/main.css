@@ -1,0 +1,65 @@
+.contenedor {
+  /* width: 500px;
+  height: 500px; */
+  background-color: aqua;
+  border: solid 4px black;
+}
+
+.item {
+  background-color: grey;
+}
+
+.item1 {
+  background-color: white;
+  border: solid 2px black;
+}
+.item2 {
+  background-color: white;
+  border: solid 2px black;
+}
+
+.item3 {
+  background-color: white;
+  border: solid 2px black;
+}
+
+.item4 {
+  background-color: white;
+  border: solid 2px black;
+}
+
+.item5 {
+  background-color: white;
+  border: solid 2px black;
+}
+
+.item6 {
+  background-color: white;
+  border: solid 2px black;
+}
+.item7 {
+  background-color: white;
+  border: solid 2px black;
+}
+
+.item8 {
+  background-color: white;
+  border: solid 2px black;
+}
+
+.item9 {
+  background-color: white;
+  border: solid 2px black;
+}
+
+.item10 {
+  background-color: white;
+  border: solid 2px black;
+}
+
+/* flexbox */
+.contenedor {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
